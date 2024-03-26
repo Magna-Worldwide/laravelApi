@@ -1,7 +1,3 @@
-Creating a README file is a great way to provide documentation for your web application, explaining how it works and how users can interact with it. Below is an example template for a README file for your Laravel web application:
-
----
-
 # Laravel Web Application
 
 This is a small web application built with Laravel that manages products and their categories.
@@ -13,7 +9,6 @@ This is a small web application built with Laravel that manages products and the
   - [Endpoints](#endpoints)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Installation
 
@@ -22,7 +17,7 @@ To run this application locally, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Magna-Worldwide/laravelApi.git
    cd laravelApi
    ```
 
@@ -80,10 +75,4 @@ Make HTTP requests to these endpoints using your preferred client (e.g., cURL, P
 
 Contributions are welcome! If you find any bugs or want to add new features, feel free to open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ---
-
-Feel free to customize this README file further to include any additional information specific to your application. Make sure to replace `<repository-url>` with the actual URL of your Git repository.
