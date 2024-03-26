@@ -7,6 +7,7 @@ This is a small web application built with Laravel that manages products and the
 - [Installation](#installation)
 - [Usage](#usage)
   - [Endpoints](#endpoints)
+- [Video Demo](#video-demo)
 - [Technologies Used](#technologies-used)
 - [Contributing](#contributing)
 
@@ -65,6 +66,15 @@ This web application provides the following API endpoints:
 - **GET /api/categories**: List all product categories.
 
 Make HTTP requests to these endpoints using your preferred client (e.g., cURL, Postman, or any REST client) to interact with the application.
+
+## Video Demo
+
+To watch a demonstration of the application, you can download the video from the following link:
+
+[Video Link on Google drive](https://drive.google.com/file/d/14Mbovco5Rx2qKjuQBPoDafQLwWLwse-z/view?usp=sharing)
+
+Once downloaded, you can play the video using any video player on your local machine.
+
 
 ## Technologies Used
 
